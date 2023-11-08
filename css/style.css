@@ -126,7 +126,7 @@ a.navbar-brand span {
 }
 .text-center p {
 	color:#8a8d94;
-	font-size:15px;
+	font-size:18px;
 	
 }
 
@@ -189,6 +189,16 @@ a.navbar-brand span {
   color: #fff;
   background-color: #fff;
   border-color: #ccc;
+  border-radius: 5px;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
+}
+.btn-default_estandar {
+  color: #fff;
+  border-radius: 5px;
+  background-color: #fff;
+  border-color: #ccc;
+  font-size: 20px;
+  box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5);
 }
 
 .btn-primary {
@@ -227,6 +237,8 @@ a.navbar-brand span {
 	padding:50px;
 	
 }
+
+
 /* --- Blog --- */
 .blogs {
 	margin-top:110px;
