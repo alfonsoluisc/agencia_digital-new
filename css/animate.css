@@ -1658,7 +1658,9 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	background-color: aliceblue;
     border-radius: 5px;
     padding: 5px;
-	margin: 10px;
+	margin: 10px;	
+	min-height: 500px;
+	max-height: 510px;
 }
 @-webkit-keyframes bounceInUp {
 	0% {
